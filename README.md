@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, This is Noer Ni'mat Syamsul Kabir
 [![Gmail Badge](https://img.shields.io/badge/-nikmatnoer@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nikmatnoer@gmail.com)](mailto:nikmatnoer@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-noernimat-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noernimat/)](https://www.linkedin.com/in/noernimat/) [![Github Badge](https://img.shields.io/badge/-noernimat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noernimat/)](https://www.github.com/noernimat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://bit.ly/portfolio_noernimat/)](https://bit.ly/portfolio_noernimat/) <p align='left'>I have +2 years of experience as a data analyst for educational purposes projects.
+[![Linkedin Badge](https://img.shields.io/badge/-noernimat-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noernimat/)](https://www.linkedin.com/in/noernimat/) [![Github Badge](https://img.shields.io/badge/-noernimat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/noernimat/)](https://www.github.com/noernimat/) <p align='left'>I have +2 years of experience as a data analyst for educational purposes projects.
 
 I experience deepening knowledge of statistical skills that utilize Machine Learning and  Deep Learning Models.
 
